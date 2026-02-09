@@ -10,8 +10,8 @@ static LGFX tft;
 Preferences prefs;
 
 /* ---------------- NETWORK ---------------- */
-const char* ssid = "JioFiber-shiva360";
-const char* pass = "shiva@786";
+const char* ssid = "*****";
+const char* pass = "****";
 const char* broker = "broker.hivemq.com";
 
 /* ---------------- MQTT ---------------- */
